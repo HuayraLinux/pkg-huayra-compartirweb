@@ -1,0 +1,2 @@
+version=3
+https://github.com/HuayraLinux/huayra-compartirweb/tags .*/(\d[\d\.]+)\.tar\.gz

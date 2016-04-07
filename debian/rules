@@ -18,10 +18,16 @@ export DH_OPTIONS
 
 
 %:
-	dh $@ 
+	dh $@
 
 override_dh_shlibdeps:
 	@echo "..."
 
 override_dh_install:
 	dh_install
+
+override_dh_auto_configure:
+	make iniciar
+	make a_produccion
+	make compilar
+	dh_auto_configure
