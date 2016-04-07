@@ -1,5 +1,5 @@
 dist/* usr/share/huayra-compartir/dist
-bin/huayra-compartir usr/bin/
+bin/huayra-compartirweb usr/bin/
 debian/huayra-compartir.desktop /usr/share/applications
 debian/huayra-compartir.desktop etc/xdg/autostart
 debian/huayra-compartir.svg /usr/share/icons/hicolor/scalable/apps
