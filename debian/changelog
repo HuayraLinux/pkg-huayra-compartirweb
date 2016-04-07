@@ -1,4 +1,4 @@
-huayra-compartir (1:2.0.2) unstable; urgency=medium
+huayra-compartir (1:2.0.2-1) unstable; urgency=medium
 
   * Refactorizado completo, usando emberjs y comandos auxiliares.
 
